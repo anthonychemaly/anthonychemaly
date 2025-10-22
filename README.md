@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Anthony El Chemaly - Banner" />
+  <img src="https://anthonychemaly.com/images/github-banner.png" alt="Anthony El Chemaly - Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Anthony 👋</h1>
