@@ -60,17 +60,6 @@ I’m a **Software Engineer** who builds systems that bridge the physical and di
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&style=for-the-badge)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonychemaly&show_icons=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonychemaly&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
 ### 📬 Connect with me
 
 📌 **Portfolio:** https://anthonychemaly.com  
@@ -79,4 +68,4 @@ I’m a **Software Engineer** who builds systems that bridge the physical and di
 
 ---
 
-💙 *Thanks for visiting — feel free to explore my repositories and reach out!*
+Thanks for visiting
